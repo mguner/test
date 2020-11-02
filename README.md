@@ -2,7 +2,9 @@
 This is a test repo
 
 # This is a header
-![This is a image](images/test_image.png)
+
+
+<img src = "images/test_image.png" width = 550 />
 
 # Overview
 
