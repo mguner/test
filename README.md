@@ -9,4 +9,4 @@ This is a test repo
 # Overview
 
 # Goals and Motivations
-[Google](google.com)
+[Google](https://google.com)
